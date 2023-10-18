@@ -1,16 +1,18 @@
-### Hi there 👋
+# 👋 Hey there, I'm ord0
 
-<!--
-**ordoven/ordoven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a self-proclaimed hax0r, keyboard warrior, and terminal junkie. When I'm not in the Matrix, you can find me contributing to open source projects and pushing the boundaries of what's possible with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- **Languages**: Python, JavaScript, C++, Java
+- **Frameworks**: Django, React, Vue.js
+- **Databases**: PostgreSQL, MongoDB
+- **DevOps**: Docker, Kubernetes, AWS
+
+## 📫 How to reach me
+
+You can't
+
+Remember: Stay curious, keep learning, and always be hacking! 💻🚀
